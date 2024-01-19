@@ -44,6 +44,19 @@
  - scss는 _로 시작하는 파일은 컴파일하지 않는다.
 
 
+### 변수의 중복 막기  -- (@use, @forward)
+
+#### @use  -->  많이 사용
+
+- 구분하는 방법은 파일명을 이용한다.
+
+![image](https://github.com/OnlyREHA/sass/assets/145514740/741c18af-b33d-407b-b536-aba55e11936a)
+
+
+- as를 이용하여 별명을 붙힐 수 있다.
+
+![image](https://github.com/OnlyREHA/sass/assets/145514740/3955fe8a-c2e5-4f3c-8d69-2229565bdd17)
+
 
 
 
